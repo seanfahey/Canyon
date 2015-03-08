@@ -41,3 +41,9 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# ignore intermediate stuff generated for previews for unreal
+Intermediate/
+
+# ignore auto saves for unreal
+Saved/
